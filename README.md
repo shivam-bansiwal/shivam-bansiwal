@@ -27,18 +27,6 @@ I'm always open to discussing innovative projects or potential collaborations. L
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivambansiwal98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-bansiwal-369abb212/)
 
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam-bansiwal&show_icons=true&theme=radical)
-
-## 🔥 Streak Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivam-bansiwal&theme=dark&background=000000)
-
-### 🌐 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Efficiently Manage State in React](#)
-- [Understanding Microservices Architecture](#)
-<!-- BLOG-POST-LIST:END -->
-
 ### 🏆 Achievements
 - Twice elected to the company's Cheerboard for excellence in software development.
 - Led the deployment of a scalable microservices architecture for a global enterprise client.
