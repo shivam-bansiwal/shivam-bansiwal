@@ -8,7 +8,7 @@
 🎓 **Educational Journey:**
 - 🏫 Bachelor of Computer Application from GGSIP University.
 - 🎓 Master of Computer Application from JIMS, IP University.
-- 🌐 Currently mastering the art of Computer Science at Purdue.
+- 🌐 Graduated with a Master's in Computer Science at Purdue.
 
 🛠️ **Professional Toolkit:**
 - **Languages:** `Java`, `Python`, `JavaScript`
